@@ -1,1 +1,1 @@
-feature coming soon
+Signup page feature coming soon.
